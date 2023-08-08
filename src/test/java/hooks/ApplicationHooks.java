@@ -37,6 +37,7 @@ public class ApplicationHooks {
 	public void afterHook2() 
 	{
 		System.out.println("After2hook");
+		System.out.println("----------");
 	}
 
 }
